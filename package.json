@@ -8,7 +8,8 @@
   },
   "workspaces": {
     "packages": [
-      "packages/*"
+      "packages/*",
+      "packages/shared/*"
     ]
   },
   "author": "rubensojunior <rubensojunior6@gmail.com>",
