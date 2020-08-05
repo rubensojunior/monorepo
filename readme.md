@@ -7,11 +7,13 @@
   <a href="#memo-licença">License</a>
 </p>
 
-## :pencil: About Challenge
+## :pencil: About
 
 Monorepo is a structure that allows to maintain several subprojects within the same repository. In this repository there are three subprojects that form a main project, namely the server, the web version and the mobile version.
 
 There are several advantages to using monorepo, such as code sharing between subprojects, unified test management, unified package management, etc.
+
+This project is just an example, so it has no features.
 
 ## Get started
 
@@ -38,6 +40,8 @@ yarn android
 Make sure to run emulator first
 
 ## Features
+
+This project is just an example, so it has no features.
 
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
